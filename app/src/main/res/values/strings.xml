@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Toko Mufidz</string>
+    <string name="blog">blog</string>
+    <string name="follow">follow</string>
+    <string name="mengikuti">Mengikuti</string>
+    <string name="_10">10</string>
+    <string name="_1140">1140</string>
+    <string name="_1_000">1.000</string>
+    <string name="lbl_nama">Muffidz ma\'sum</string>
+    <string name="lbl_pengikut_count">Pengikut</string>
+    <string name="nama_habitat">West borneo</string>
+    <string name="sms">Kirim pesan</string>
+    <string name="postingan_user">Postingan</string>
+    <string name="username">Username</string>
+
+    <string name="content_price"> Rp. 9.500.000</string>
+    <string name="content_power"> blabalabalabaaa alshchkbajshck asouohckhbasuch ausucuiaswwhdiaaks
+            ahskbc9uefbsocija.dvnladjc alddchljahcocihasjcncnadcoci adcjchajefuoalsncvasojqp asclhakjnc
+            achlajdncljhascljlajsncljaslcjb,aldjvlkjakvbaksncljlhaschkasbcjkanlvjkjxbxc,na,cmnc,nasb cljbjasb jbasb kjblas ,mnalsn
+            cjkbacnkzjc</string>
+    <string name="content_text">Motor ducati harga murah jhsacgkjahsc ksjhddmzcoahosc
+            askjhabsbvckasc askkcjbkhvbajsbc j ASKBCKHABSKHCBMANBSC</string>
+    <string name="isi_text">Motor ducati harga murah beli dong, motor eropa, dan jika lo naik motor
+            ini kegantengan lu akan naik 10000 persen dan rasanya mantap seperti anda menjadi ironman
+            cobain deh bel atu goblok  iamam supriadi, mamank garok, lord ngeteh asu</string>
+    <string name="content_specs_display">2560x1440</string>
+    <string name="content_cc">2560x1440 cc motor ini sangat kencang hingga bisa mengaalahkan flash
+            kira kira kecepatan motor ini 100.00000.0000 segitulah kiraa kirajika tulisan ini kurang panjang ya di panjkang panjang kan saja</string>
+    <string name="content_specs_size">13"</string>
+    <string name="content_specs_balap">Processor Intel Core i5 Quad CoreMemory RAM 8GB DDR3L
+             2133MHzStorage SSD 256GB M.2 PCIeGraphics Intel Iris PlusScreen Display 13.3" QHD Retina
+             dkskandkans asdkn as,dn sd,jmnasdnkasdkD</string>
+    <string name="content_Pt">Pabrik pembuata motor ini berada di desa terpencilProcessor Intel Core i5 Quad CoreMemory RAM 8GB DDR3L
+             2133MHzStorage SSD 256GB M.2 PCIeGraphics Intel Iris PlusScreen Display 13.3" QHD Retina
+             dkskandkans asdkn as,dn sd,jmnasdnkasdkD</string>
+</resources>
